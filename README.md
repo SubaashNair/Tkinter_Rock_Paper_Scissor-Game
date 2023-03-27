@@ -1,5 +1,9 @@
 # Tkinter_Rock_Paper_Scissor-Game
 
+[![Python version](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/downloads/release/python-380/)
+[![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue.svg)](https://docs.python.org/3/library/tkinter.html)
+
+
 This is a simple Rock Paper Scissors game implemented in Python using the Tkinter library. 
 The game consists of a graphical user interface where the player can choose Rock, Paper, or Scissors, and the computer generates a random choice. 
 The game keeps track of the player's and computer's scores and displays the results.
